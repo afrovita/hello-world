@@ -1,2 +1,3 @@
 # hello-world
-Belajar Git
+Belajar Git dan bekerja sebagai team
+Ini hanyalah sebuah permulaan
